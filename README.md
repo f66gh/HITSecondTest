@@ -16,6 +16,7 @@
   * 集合论与图论 
     *  [集合论与图论（上）_哈尔滨工业大学_中国大学MOOC(慕课)](https://www.icourse163.org/course/HIT-1003779006)
     * [集合论与图论（下）_哈尔滨工业大学_中国大学MOOC(慕课)](https://www.icourse163.org/course/HIT-1003781003)
+  * 数理逻辑
   * 近世代数 - [离散数学（全）-北京大学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BW411n7gw/?from=search&seid=218450162851990444&vd_source=ac87d7ae28f6f07eef275c93fb3f1cc9)
 * 算法 -
 * 逻辑思维能力
