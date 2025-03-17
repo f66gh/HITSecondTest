@@ -61,6 +61,7 @@
     "*.wxss": "css",
     "*.wxs": "javascript",
     "math.h": "c",
-    "ctype.h": "c"
+    "ctype.h": "c",
+    "334.C": "cpp"
   }
 }
