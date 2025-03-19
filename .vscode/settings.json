@@ -62,6 +62,9 @@
     "*.wxs": "javascript",
     "math.h": "c",
     "ctype.h": "c",
-    "334.C": "cpp"
+    "334.C": "cpp",
+    "stdio.h": "c",
+    "311.C": "cpp",
+    "cmath": "c"
   }
 }
