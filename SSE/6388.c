@@ -22,3 +22,5 @@ void  Squeeze(char *s, char c)
     }
     s[i] = '\0';
 }
+
+

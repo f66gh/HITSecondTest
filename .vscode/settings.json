@@ -65,6 +65,7 @@
     "334.C": "cpp",
     "stdio.h": "c",
     "311.C": "cpp",
-    "cmath": "c"
+    "cmath": "c",
+    "447.C": "cpp"
   }
 }
